@@ -1,0 +1,105 @@
+{
+  "project": "marrow",
+  "desk": "release-desk",
+  "manifest_version": 2026,
+  "generated": "2026-11-05",
+  "field_notes": "status: shipped | planned | cancelled; channel: stable | beta | rc; artifact: Hub model repository that holds the published artifact",
+  "releases": [
+    {
+      "version": "v4.1.0",
+      "date": "2026-10-02",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "openai-community/gpt2",
+      "highlights": "icon pipeline refresh"
+    },
+    {
+      "version": "v4.2.0",
+      "date": "2026-10-09",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "Qwen/Qwen2.5-0.5B-Instruct",
+      "highlights": "theme generation hooks"
+    },
+    {
+      "version": "v4.3.0",
+      "date": "2026-10-15",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "google/gemma-2b",
+      "highlights": "embedding backend switch"
+    },
+    {
+      "version": "v4.4.0",
+      "date": "2026-10-19",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "",
+      "highlights": "stream framing rewrite"
+    },
+    {
+      "version": "v4.5.0",
+      "date": "2026-10-23",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "google-bert/bert-base-multilingual-cased",
+      "highlights": "policy cache warmup"
+    },
+    {
+      "version": "v4.6.0",
+      "date": "2026-10-30",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "bigscience/bloom-560m",
+      "highlights": "batch export path"
+    },
+    {
+      "version": "v4.7.0",
+      "date": "2026-11-02",
+      "channel": "beta",
+      "status": "shipped",
+      "artifact": "microsoft/phi-2",
+      "highlights": "beta preview of schema v3"
+    },
+    {
+      "version": "v4.8.0",
+      "date": "2026-11-04",
+      "channel": "stable",
+      "status": "planned",
+      "artifact": "tiiuae/falcon-rw-1b",
+      "highlights": "queue compaction"
+    },
+    {
+      "version": "v4.9.0",
+      "date": "2026-11-06",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "sentence-transformers/all-MiniLM-L6-v2",
+      "highlights": "caption audit export"
+    },
+    {
+      "version": "v4.10.0",
+      "date": "2026-11-10",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "cardiffnlp/twitter-roberta-base-sentiment-latest",
+      "highlights": "corpus sentiment refresh"
+    },
+    {
+      "version": "v5.0.0-rc.1",
+      "date": "2026-11-08",
+      "channel": "rc",
+      "status": "shipped",
+      "artifact": "EleutherAI/gpt-neo-125m",
+      "highlights": "release-candidate smoke run"
+    },
+    {
+      "version": "v4.0.2",
+      "date": "2026-09-18",
+      "channel": "stable",
+      "status": "shipped",
+      "artifact": "distilbert/distilbert-base-uncased",
+      "highlights": "font subsetting fix"
+    }
+  ]
+}
