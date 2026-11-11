@@ -220,3 +220,8 @@ This file is maintained by hand according to the rules in `docs/CONTRIBUTING.md`
 | v4.0.0 | 2026-09-05 | stable | plugin loader hardening |
 | v4.0.1 | 2026-09-12 | stable | faster manifest parsing |
 | v4.0.2 | 2026-09-18 | stable | hot-reload for policy files |
+| v4.1.0 | 2026-10-02 | stable | icon pipeline refresh |
+| v4.2.0 | 2026-10-09 | stable | theme generation hooks |
+| v4.5.0 | 2026-10-23 | stable | policy cache warmup |
+| v4.9.0 | 2026-11-06 | stable | caption audit export |
+| v4.10.0 | 2026-11-10 | stable | corpus sentiment refresh |
