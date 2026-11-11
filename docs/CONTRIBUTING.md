@@ -26,3 +26,11 @@ are not part of the public index.
 Only artifacts distributed under an approved license (Apache-2.0, MIT,
 BSD-3-Clause or CC-BY-4.0) may be listed. Never add a version that is already
 in the table.
+
+## Publishing checklist
+
+Run the index linter before publishing:
+
+    python tools/index_lint.py docs/release-index.md
+
+Fix every reported row before pushing the update.
