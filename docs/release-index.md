@@ -220,3 +220,4 @@ This file is maintained by hand according to the rules in `docs/CONTRIBUTING.md`
 | v4.0.0 | 2026-09-05 | stable | plugin loader hardening |
 | v4.0.1 | 2026-09-12 | stable | faster manifest parsing |
 | v4.0.2 | 2026-09-18 | stable | hot-reload for policy files |
+| v4.0.3 | 2026-09-25 | stable | documentation refresh |
